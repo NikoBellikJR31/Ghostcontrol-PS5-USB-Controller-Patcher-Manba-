@@ -252,5 +252,5 @@ ELF/GhostControl-ManbaV2-NBJr-USB-Patch.elf
 ## Avertissement
 
 Recherche uniquement a titre educatif . A utiliser a vos risques et perils . Tester uniquement avec mon environnement PS5 6.02 et Manba.
-Je ne dispose pas d'outils , script ou payload magique universel malheuresement pour analyse plus approfondi pour support d autre manettes ou adapation BT,  je procede par etapes par etapes, cela demande du temps ...
+Je ne dispose pas d'outils , script ou payload magique universel malheuresement , pour analyse plus approfondi pour support d'autre manettes ou adapation BT,  je procede etapes par etapes, car j'apprend en meme temps,  cela demande du temps ...
 
