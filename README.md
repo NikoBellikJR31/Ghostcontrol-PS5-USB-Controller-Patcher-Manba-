@@ -174,8 +174,7 @@ Launch-GhostControl-ManbaV2-NBJr.bat
 ```
 
 3. Entrer l'IP de la PS5.
-4. Le launcher envoie d'abord `GhostControl-Cleanup.elf`, attend 2 secondes,
-   puis envoie `GhostControl-ManbaV2-NBJr-USB-Patch.elf`.
+4. Faite votre choix choix 2 active auto ... si vous voulez kill la payload  choix 3 ... vous pouve egalement envoyer via etahen ....
 
 
 ## Ou Regarder Pour Les Patchs
