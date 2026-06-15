@@ -155,7 +155,7 @@ Points trouves :
 
 Conclusion actuelle : le Bluetooth demande une recherche separee autour de la
 pile Bluetooth PS5, HCI/L2CAP/HIDP, la logique accessoire vers pad, ou les
-modules/PRX utilises par la DualSense officielle.
+modules/PRX utilises par la DualSense officielle...
 
 
 ## Lancer La Payload Finale
@@ -179,12 +179,6 @@ Launch-GhostControl-ManbaV2-NBJr.bat
 
 
 ## Ou Regarder Pour Les Patchs
-
-Le guide detaille est ici :
-
-```text
-PATCH_MANBA_FINAL_DETAIL.txt
-```
 
 Les zones importantes :
 
