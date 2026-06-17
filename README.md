@@ -155,7 +155,7 @@ Points trouves :
 
 Conclusion actuelle : le Bluetooth demande une recherche separee autour de la
 pile Bluetooth PS5, HCI/L2CAP/HIDP, la logique accessoire vers pad, ou les
-modules/PRX utilises par la DualSense officielle...
+modules/PRX utilises par la DualSense officielle.
 
 
 ## Lancer La Payload Finale
@@ -174,11 +174,14 @@ Launch-GhostControl-ManbaV2-NBJr.bat
 ```
 
 3. Entrer l'IP de la PS5.
-4. Faite votre choix choix 2 active auto ... si vous voulez kill la payload  choix 3 ... vous pouve egalement envoyer via etahen ....
-
+4. Lancer 1/2/3 
+   1 : Kill ancienne payload et renjecte payload propre 
+   2:  Elf ghost  ( active auto )
+   3:  Kill seul
 
 ## Ou Regarder Pour Les Patchs
 
+```
 Les zones importantes :
 
 - `payload/controller_mamba.h`
@@ -251,5 +254,5 @@ ELF/GhostControl-ManbaV2-NBJr-USB-Patch.elf
 ## Avertissement
 
 Recherche uniquement a titre educatif . A utiliser a vos risques et perils . Tester uniquement avec mon environnement PS5 6.02 et Manba.
-Je ne dispose pas d'outils , script ou payload magique universel malheuresement , pour analyse plus approfondi pour support d'autre manettes ou adapation BT,  je procede etapes par etapes, car j'apprend en meme temps,  cela demande du temps ...
+Je ne dispose pas d'outils , script ou payload magique universel malheuresement pour analyse plus approfondi pour support d autre manettes ou adapation BT,  je procede par etapes par etapes, cela demande du temps ...
 
